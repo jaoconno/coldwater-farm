@@ -1,0 +1,10 @@
+import {Component} from 'angular2/core';
+
+@Component({
+    selector: 'homepage',
+    template: `<div> We are a small family operated kennel located in the Northern Piedmont area of North Carolina, specializing in working line German Shepherd Dogs.Our breeding dogs are selected from West German working, Czech Republic, DDR and Dutch lines. All of our dogs are imported or from imported stock and have hip evaluations and health certifications in place. We choose our dogs based on temperament, workability and structure. 
+Hindi and Grimm Relaxing While our puppies often end up in sport competition, Search and Rescue, protection or police k-9, all must posess the stable social disposition to be a family's best friend.<br/>
+Dr. Robert Oglesby and Janette Oglesby have been involved with German Shepherd Dogs and puppy care and training for many years. Dr. Oglesby has been in veterinary practice for over 32 years, initially an equine practitioner, he owned Stokesdale Veterinary Hospital, a mixed animal practice for 20 years. He also maintains the successful website www.horseadvice.com. Janette has been practice manager, veterinary technician and kennel manager. She is a member of USCA and is involved with several working dog clubs and groups. Our daughter Robin Oglesby participates in the family business as Coldwater Canine Training, a professional companion and sport dog training enterprise and the handler/trainer for our upcoming young sport dogs.<br/>
+We usually have several litters of German Shepherd puppies each year from our carefully selected females. We stand at stud to approved females, the German Shepherd stud dog, Grimm van het Groot Wezenland, IPO1 and Coal von Narnia, IPO1. We also sometimes use outside males. Our goal is to be able to offer your family the opportunity to welcome into your home your new best friend and family protector.</div>`
+})
+export class HomepageComponent { }
